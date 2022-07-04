@@ -3,7 +3,7 @@ use anchor_spl::token;
 use anchor_spl::token::{Token, MintTo, Transfer};
 
 
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("HQ4rP2qrmq6D2mBCd9ZLaUe3NaGVQAG2zq6tMxtBhsmD");
 
 #[program]
 pub mod token_contract {
